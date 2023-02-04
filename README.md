@@ -1,4 +1,18 @@
 # openmmlabAI-1
 openmmlab实战营第一次作业
-# 都是泛滥
-![image](https://user-images.githubusercontent.com/83444163/216773962-a4d3f50d-030e-4b5d-b55b-b71d795622fd.png)
+https://mmclassification.readthedocs.io/en/latest/
+实验基于ImageNet-1k作为pretrained进行finetuned [预训练权值下载]（https://github.com/open-mmlab/mmclassification）
+# 基础实验
+使用mmclassification对花进行分类
+# 实验设备
+NVIDIA GeForce GTX 3090
+# flower数据集
+flower 数据集包含 5 种类别的花卉图像：雏菊 daisy 588张，蒲公英 dandelion 556张，玫瑰 rose 583张，向日葵 sunflower 536张，郁金香 tulip 585张。
+
+数据集下载链接：
+
+国际网：https://www.dropbox.com/s/snom6v4zfky0flx/flower_dataset.zip?dl=0
+国内网：https://pan.baidu.com/s/1RJmAoxCD_aNPyTRX6w97xQ 提取码: 9x5u
+# 进阶实验
+使用mmclassification对CIFAR-10进行分类
+图像分类数据集：CIFAR-10：https://opendatalab.com/CIFAR-10 562M
