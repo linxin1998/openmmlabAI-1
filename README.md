@@ -1,7 +1,7 @@
 # openmmlabAI-1
 openmmlab实战营第一次作业
 https://mmclassification.readthedocs.io/en/latest/
-实验基于ImageNet-1k作为pretrained进行finetuned [预训练权值下载]（https://github.com/open-mmlab/mmclassification）
+实验基于ImageNet-1k作为pretrained进行finetuned [预训练权值下载](https://download.openmmlab.com/mmclassification/v0/resnet/resnet50_8xb32_in1k_20210831-ea4938fc.pth)）
 # 基础实验
 使用mmclassification对花进行分类
 # 实验设备
