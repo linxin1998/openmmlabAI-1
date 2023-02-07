@@ -14,9 +14,12 @@ flower 数据集包含 5 种类别的花卉图像：雏菊 daisy 588张，蒲公
 
 使用resnet50作为backbone的模型训练文件，放在百度网盘中。链接：https://pan.baidu.com/s/1GbmY8VzCRLV_rqeNXRZg_g 
 提取码：vloe
+最后一个epoch：accuracy_top-1: 94.4056%, accuracy_top-5: 100.0000&
 
 # 进阶实验
 使用mmclassification对CIFAR-10进行分类
 图像分类数据集：CIFAR-10：https://opendatalab.com/CIFAR-10 562M
 使用resnet50作为backbone的模型训练文件，放在百度网盘中。链接：https://pan.baidu.com/s/1lnIElnwwM-oRp_TgkCuFNw 
 提取码：tovq
+最后一个epoch：accuracy_top-1: 82.7200%, accuracy_top-5: 99.1100%
+
