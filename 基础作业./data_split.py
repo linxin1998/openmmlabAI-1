@@ -73,7 +73,6 @@ def split_data(dataset_path,target_path,train_set_rate=0.8):
 
 
 
-
 def main():
     dataset_path='dataset/flower_dataset'
     target_path='flower_dataset_split/'
