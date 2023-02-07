@@ -10,9 +10,13 @@ NVIDIA GeForce GTX 3090
 flower 数据集包含 5 种类别的花卉图像：雏菊 daisy 588张，蒲公英 dandelion 556张，玫瑰 rose 583张，向日葵 sunflower 536张，郁金香 tulip 585张。
 
 数据集下载链接：
-
 国际网：https://www.dropbox.com/s/snom6v4zfky0flx/flower_dataset.zip?dl=0
-国内网：https://pan.baidu.com/s/1RJmAoxCD_aNPyTRX6w97xQ 提取码: 9x5u
+
+使用resnet50作为backbone的模型训练文件，放在百度网盘中。链接：https://pan.baidu.com/s/1GbmY8VzCRLV_rqeNXRZg_g 
+提取码：vloe
+
 # 进阶实验
 使用mmclassification对CIFAR-10进行分类
 图像分类数据集：CIFAR-10：https://opendatalab.com/CIFAR-10 562M
+使用resnet50作为backbone的模型训练文件，放在百度网盘中。链接：https://pan.baidu.com/s/1lnIElnwwM-oRp_TgkCuFNw 
+提取码：tovq
